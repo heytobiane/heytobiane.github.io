@@ -1,0 +1,93 @@
+/* Home Page */
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+.container {
+    padding-bottom: 55px;
+}
+header {
+    background: #faebd72e;
+}
+img {
+    width: 150px;
+}
+nav.header-navigation {
+    font-family: 'Playfair Display', serif;
+    text-align: right;
+    margin-top: -18px;
+    font-size: 20px;
+}
+nav.header-navigation a {
+    color: #e36eb9c9;
+    margin: 1px;
+}
+
+
+
+/* Home Page,  ubos nga parts*/
+section.greeting {
+    background: #faebd72e;
+    margin-top: -56px;
+    padding-bottom: 15px;
+    font-size: 45px;
+}
+h1 {
+    color: #643220;
+    padding-top: 43px;
+}
+section#about {
+    background: #faebd72e;
+    margin-top: -29px;
+    margin-bottom: -46px;
+}
+section.contain {
+    background: #faebd72e;
+}
+h2 {
+    font-size: 35px;
+}
+p {
+    font-family: 'Playfair Display';
+    font-size: 25px;
+}
+section#skills {
+    background: #faebd72e;
+    margin-bottom: -47px;
+}
+h3 {
+    font-size: 35px;
+    margin-top: -24px;
+    padding-top: 0px;
+}
+section#projects {
+    background: #faebd72e;
+}
+h4 {
+    font-size: 35px;
+    padding-top: 30px;
+    margin-left: -197px;
+}
+section.end-greet {
+    background: #faebd72e;
+    padding-top: 68px;
+    font-size: 37px;
+    font-family: 'Playfair Display';
+    padding-left: 383px;
+}
+
+
+/* Footer */
+footer {
+    background: #faebd72e;
+    padding-top: 112px;
+    padding-left: 501px;
+}
+.container {
+    padding-bottom: 10px;
+}
+
+
+
+
+
